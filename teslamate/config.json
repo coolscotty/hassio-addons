@@ -61,5 +61,5 @@
         "share:rw"
     ],
     
-    
+   "image": "mattffffff/teslamate-{arch}"
   }
