@@ -60,5 +60,5 @@
     "map": [
         "share:rw"
     ],
-    "image": "mattffffff/teslamate-{arch}"
+    "image": "teslamatefork/teslamatefork:edge-{arch}"
   }
