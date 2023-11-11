@@ -60,6 +60,6 @@
     "map": [
         "share:rw"
     ],
-    "url": "https://github.com/coolscotty/hassio-addon-repository/blob/master/teslamate/README.md",
-    "image": "coolscotty/teslamate-{arch}"
+    
+    
   }
